@@ -1,0 +1,22 @@
+{
+  "name": "workflow-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinddoan/workflow-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinddoan/workflow-practice/issues"
+  },
+  "homepage": "https://github.com/dustinddoan/workflow-practice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
